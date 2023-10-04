@@ -5,6 +5,6 @@ PRACTICA 1 PROGRAMACION MOVIL
 fun main() {
     println("Hello, UPIICSA!!!")
     println("Programacion Web")
-    println("Practica 1 Alternativas Online para Testeo Rapido")
-    println("Santuario Villalba Ailin Karely")
+    println("Alternativas Online para Testeo Rapido")
+    println("Flores Vazquez Brayan")
     println("Secuencia 6NV60")
